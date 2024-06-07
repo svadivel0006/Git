@@ -34,6 +34,9 @@ node_modules
 # Book build output
 _book
 
+#Idea files
+.idea/*
+
 # eBook build output
 *.epub
 *.mobi
